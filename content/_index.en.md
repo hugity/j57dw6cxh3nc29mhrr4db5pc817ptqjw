@@ -15,7 +15,5 @@ cta:
     label: contact us
     link: contact/
 ---
-*   [x] Your mum
-*   [ ] Not your mum
-*   One bullet
-*   Two bullet
+*   [ ] do this
+*   do that
